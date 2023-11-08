@@ -10,5 +10,7 @@ cor.npy
 RX_time.npy
 wl_transform.npy
 STFT.npy
+FE_SNR.npy
+LOS_FE_SNR.npy
 ML.ipynb
 testcode.ipynb
