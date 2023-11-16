@@ -15,6 +15,6 @@ FE_SNR.npy
 LOS_FE_SNR.npy
 ML.ipynb
 testcode.ipynb
-FE_SNR_10.npy
-FE_SNR_15.npy
 labels.npy
+label_bs_id_11.npy
+FE_SNR_PRS.npy
