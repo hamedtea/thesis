@@ -18,3 +18,5 @@ testcode.ipynb
 labels.npy
 label_bs_id_11.npy
 FE_SNR_PRS.npy
+DS_FE
+DS_labels
