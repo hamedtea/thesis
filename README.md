@@ -29,12 +29,12 @@ The originality of this thesis has been checked using the Turnitin OriginalityCh
 
 Notes: 
 - The essential input data for this repository can be find in channel_data.npy
-- Other data structures can be generate inside .ipynb files (but some minor modificatio is required, I ma sure that you are pythonic enough to do that ;-)
+- Other data structures can be generate inside .ipynb files (but some minor modificatio is required, I am sure that you are pythonic enough to do that ;-)
 - PRS_maker.ipynb includes two function objecs for generating PNS and PRS. There are relevant codes mainly for visualization and output purposes
 - RX_maker.ipynb includes three class objects to generate receive signals, correlation and interpolation values and statistical feature generation (more info. can be find inside the notebook)
 - CIR_based_ML_model.ipynb includes neccessary operations for ML LOS/NLOS classification.  
 CIR_based_ML_model conveys some NN/DL code for future development
 - To access to the whole raytracing dataset for InF. channel env., contact aamir.mahmood@miun.se
-- To access to more info. about almost everythin, visit www.trepo.tuni.fi (If you cannot see my thesis text in this platform, be patient :-) Popular access will be provided soon) 
+- To access to more info. about almost everythin, visit www.trepo.tuni.fi (If you cannot see my thesis text in this platform, be patient :-) ; Popular access will be provided soon) 
 
 
